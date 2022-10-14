@@ -1,10 +1,10 @@
 <h1>👋 Olá, me chamo Davidson Santos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidson-santos&color=blueviolet" alt="Profile views" /> </p>
 
-- 👀 Estudante do Instituto Federal da Bahia
-- 🌱 Atualmente aprendendo Flutter e Python
-- ⚡ Desenvolvimento mobile e de games
-- 📫 Você pode me encontrar em: ocapivara@yahoo.com
+- 👀 Estudante da Rocketseat no programa Ignite
+- 🌱 Atualmente aprendendo ReactJS
+- ⚡ Experiência em desenvolvimento de games mobile
+- 📫 Você pode me encontrar em: ocapivara@yahoo.com ou nas redes abaixo
 - <a href="https://www.linkedin.com/in/davidson-santos-de-oliveira-9a627b163/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Perfil_no_Linkedin-05122A?style=flat&logo=linkedin&color=blue" alt="linkedin"/>
   </a>
