@@ -30,6 +30,7 @@
 <h2>GitHub Analytics</h2>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=davidson-santos&show_icons=true&theme=radical" alt="davidson's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidson-santos&layout=compact&theme=radical" alt="davidson's most languages"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=davidson-santos&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="davidson's stats"/>
+<br>
+<img height="200em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidson-santos&layout=compact&theme=radical" alt="davidson's most languages"/>
 </p>
